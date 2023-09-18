@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammod-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammod-ali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammod-ali" alt="mohammod-ali" /></a> </p>
+
 
 - 🌱 I’m currently learning **Redux**
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **mohammodali651@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18xKK6Vp8FYUrz1NrCHUm79ty4eTvn0-T/view?usp=sharing](https://drive.google.com/file/d/18xKK6Vp8FYUrz1NrCHUm79ty4eTvn0-T/view?usp=sharing)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammod-ali" alt="mohammod-ali" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
